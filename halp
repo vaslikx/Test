@@ -1,0 +1,4 @@
+1. vyberiem si file, ktroy ma bug
+2. fixnem
+3. pri commite napisem nejaku spravu prvy riadok
+4. v dalsom nasleduje Issue: #1 (cislo bugu)
